@@ -2,6 +2,10 @@
 
 **Application Report — M.Sc. Data Science, TU Dortmund University (Winter Semester 2026/27)**
 
+## Report
+
+[📄 Read the full report (PDF)](report/Data_Science_Report_Dortmund_13.pdf)
+
 ## Overview
 
 This project investigates whether Mathematics and Language test scores of 486 students differ significantly by **gender** and **parental education level**. It was completed as part of the application process for the M.Sc. Data Science programme at TU Dortmund University, Department of Statistics.
