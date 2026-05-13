@@ -28,18 +28,6 @@ This project investigates whether Mathematics and Language test scores of 486 st
 - Post-hoc: Tukey's HSD and Dunn's test with Bonferroni correction
 - Assumption checks: Shapiro–Wilk (normality), Levene's test (homogeneity of variances)
 
-## Repository Structure
-
-```
-StudentScoreAnalysis/
-├── README.md
-├── data/
-│   └── Scores.csv              # Raw dataset (486 students, 972 rows)
-├── report/
-│   └── Data_Science_Report_Dortmund_13.pdf   # Full 10-page report
-└── src/                        # Analysis code (coming soon)
-```
-
 ## Data
 
 The dataset (`data/Scores.csv`) contains 972 observations for 486 students, each assessed in both Mathematics and Language (scores 0–100). Variables include:
@@ -55,10 +43,6 @@ The dataset (`data/Scores.csv`) contains 972 observations for 486 students, each
 ## Tools
 
 - Python (NumPy, pandas, SciPy, Matplotlib, scikit-posthocs)
-
-## Author
-
-Mert Görgülü
 
 ## License
 
