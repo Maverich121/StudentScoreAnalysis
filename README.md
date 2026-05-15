@@ -4,7 +4,7 @@
 
 ## Report
 
-[📄 Read the full report (PDF)](report/Data_Science_Report_Dortmund_13.pdf)
+[📄 Read the full report (PDF)](report/ApplicationReport_DataScience_TUDortmund_2026-2027.pdf)
 
 ## Research Questions
 
